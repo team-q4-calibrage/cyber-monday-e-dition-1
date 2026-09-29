@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Monday 2026 — L'Édition Réinventée",
+  "description": "Expérience promotionnelle Cyber Monday 2026. Des offres exceptionnelles sur les produits technologiques qui comptent vraiment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
