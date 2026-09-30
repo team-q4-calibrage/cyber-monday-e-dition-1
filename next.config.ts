@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: false,
   },
+  devIndicators: false,
   // Allow access to remote image placeholders and premium product photography.
   images: {
     remotePatterns: [
